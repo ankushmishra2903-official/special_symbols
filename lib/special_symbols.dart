@@ -98,6 +98,8 @@ class SpecialSymbols {
 
   /// Special Symbols of notEqual ≠
   static final String notEqual = '≠';
+  /// Special Symbols of equal =
+  static final String equal = '=';
 
   /// Special Symbols of lessThenOrEqualTo ≤
   static final String lessThenOrEqualTo = '≤';

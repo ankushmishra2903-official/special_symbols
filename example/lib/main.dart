@@ -59,6 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
     'SpecialSymbols.lessThenOrEqualTo': '${SpecialSymbols.lessThenOrEqualTo}',
     'SpecialSymbols.infinity': '${SpecialSymbols.infinity}',
     'SpecialSymbols.notEqual': '${SpecialSymbols.notEqual}',
+    'SpecialSymbols.equal': '${SpecialSymbols.equal}',
     'SpecialSymbols.partialDifferential':
         '${SpecialSymbols.partialDifferential}',
     'SpecialSymbols.thereExists': '${SpecialSymbols.thereExists}',
