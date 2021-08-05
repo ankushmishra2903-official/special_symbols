@@ -1,7 +1,9 @@
 name: special_symbols
-description: A new Flutter project.
+description: A very special symbols in string which is not in keyboard.
 version: 0.0.1
-homepage:
+authors:
+  - Ankush Mishra <ankushmishra2903.official@gmail.com>
+homepage: https://github.com/ankushmishra2903-official/special_symbols.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
