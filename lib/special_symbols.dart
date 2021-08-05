@@ -1,4 +1,5 @@
 library special_symbols;
+
 class SpecialSymbols {
   /// Special Symbols of indianRupee ₹
   static final String indianRupee = '₹';
@@ -98,6 +99,7 @@ class SpecialSymbols {
 
   /// Special Symbols of notEqual ≠
   static final String notEqual = '≠';
+
   /// Special Symbols of equal =
   static final String equal = '=';
 
